@@ -3,4 +3,5 @@ bin/
 logs/
 node_modules/
 .vscode/
+*.log
 
