@@ -1,0 +1,6 @@
+dist/
+bin/
+logs/
+node_modules/
+.vscode/
+
